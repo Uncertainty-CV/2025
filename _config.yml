@@ -1,0 +1,45 @@
+
+baseurl: "https://uncertainty-cv.github.io/2025/"
+color-scheme: "#1a2090" #the scheme can be any HEX code like "#334279"
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+
+exclude:
+  - .sass-cache
+
+title: "4th Workshop on Uncertainty Quantification for Computer Vision"
+subtitle: "[CVPR 2025 Workshop](https://cvpr.thecvf.com/Conferences/2025)"
+
+shorttitle: "UNCV Workshop @ CVPR 2025"
+information: "CVPR 2025 Workshop on Uncertainty Quantification for Computer Vision." 
+
+organizers: "UNCV Organizers"
+
+deadlines:
+  - item: Submission deadline
+    date: TBA
+  
+  - item: Notification of acceptance
+    date: TBA
+
+  - item: Camera-ready deadline
+    date: TBA
+
+
+# challengedl:
+#   - item: BRAVO Challenge 2024 launch, data and code available for download
+#     date: 17/06/2024
+#
+#   - item: Submission server open
+#     date: 01/07/2024
+#
+#   - item: Submissions deadline
+#     date: 23/08/2024
+#
+#   - item: Technical report deadline
+#     date: 27/08/2024

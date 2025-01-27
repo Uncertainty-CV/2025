@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<!-- Information -->
+<div class="jumbotron information">
+
+
+<p>In the last decade, substantial progress has been made w.r.t. the performance of computer vision systems, a significant part of it thanks to deep learning. These advancements prompted sharp community growth and a rise in industrial investment. However, most current models lack the ability to reason about the confidence of their predictions; integrating uncertainty quantification into vision systems will help recognize failure scenarios and enable robust applications.</p>
+
+<p>In addition to advances in Bayesian deep learning, providing practical approaches for vision problems, the workshop will provide a forum for discussing promising research directions, which have received less attention, as well as advancing current practices to drive future research. Examples include: the development of new metrics that reflect the real-world need for uncertainty when using vision systems with down-stream tasks; and moving beyond point-estimates to address the multi-modal ambiguities inherent in many vision tasks.</p>
+
+<p>
+This years UNcertainty quantification for Computer Vision (UNCV) Workshop aims to raise awareness and generate discussion regarding how predictive uncertainty can, and should, be effectively incorporated into models within the vision community. The workshop will bring together experts from machine learning and computer vision to create a new generation of well-calibrated and effective methods that <i>know when they do not know</i>. 
+</p>
+</div>
+
+
+<!-- Content -->
+
+<h2>Speakers</h2>
+
+<div class="row justify-content-center people-widget text-center">
+
+{% for item in site.data.speakers  %}
+
+<div class="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4">
+  <a href="{{ item.url }}">
+  <div class="team-member">
+
+    {% if item.img %}
+    <img src="{{ site.baseurl }}/assets/speakers/{{ item.img }}" class="img-responsive img-circle avatar-x2 avatar-circle" alt="">
+    {% else %}
+    <div class="avatar-x2 avatar-circle" style="background: #ddd;">
+      <i class="fa fa-user" style="font-size: 220px; color: #eee; margin-top:20px;"></i>
+    </div>
+    {% endif %}
+    <h4>{{ item.name }}</h4>
+    <p class="text-muted">{{ item.affiliation }}</p>
+  </div>
+  </a>
+</div>
+
+{% endfor %}
+
+</div>
+
+<h2>Workshop Program</h2>
+The workshop will happen in person at CVPR 2025!
+</br>
+
+<h2>Call for Papers</h2>
+The call for papers will be announced shortly.
+</br>
+
+<h2>Important Dates</h2>
+
+<p>All times are end of day AOE.</p>
+
+<ul>
+{% for item in site.deadlines  %}
+  <li>{{ item.item }}: <strong>{{ item.date }}</strong></li>
+{% endfor %}
+</ul>
+
+<!-- Previous Events -->
+<h2>Previous Workshops</h2>
+<ul>
+{% for item in site.data.previous_events %}
+  <li><a href="{{ item.url}}"><strong>{{ item.name }}</strong></a></li>
+{% endfor %}
+</ul>
+
+<!-- List of Organizers -->
+
+<h2>Organizers</h2>
+<ul>
+{% for item in site.data.organizers  %}
+  <li><a href="{{ item.url }}"><strong>{{ item.name }}</strong></a>, {{ item.affiliation }}</li>
+{% endfor %}
+</ul>
