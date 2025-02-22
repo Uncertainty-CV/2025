@@ -1,11 +1,29 @@
-- name: TBA
-  affiliation: TBA
+- name: Anastasios Angelopoulos
+  affiliation: University of California, Berkeley
   abstract: TBA
+  img: anastasios.jpg
+  url: "https://people.eecs.berkeley.edu/~angelopoulos/about/"
 
-- name: TBA
-  affiliation: TBA
+- name: Stanislav Fort
+  affiliation: Google DeepMind
   abstract: TBA
+  img: stanislav.png
+  url: "https://stanislavfort.com/"
 
-- name: TBA
-  affiliation: TBA
+- name: Judy Hoffman
+  affiliation: Georgia Tech
   abstract: TBA
+  img: judy.png
+  url: "https://faculty.cc.gatech.edu/~judy/"
+
+- name: Rowan McAllister
+  affiliation: Waymo
+  abstract: TBA 
+  img: rowan.jpg
+  url: "https://rowanmcallister.github.io/"
+
+- name: Baharan Mirzasoleiman
+  affiliation: UCLA
+  abstract: TBA
+  img: baharan.jpg
+  url: "https://baharanm.github.io/"
