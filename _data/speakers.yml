@@ -4,11 +4,29 @@
   img: anastasios.jpg
   url: "https://people.eecs.berkeley.edu/~angelopoulos/about/"
 
-- name: Stanislav Fort
-  affiliation: Google DeepMind
+- name: Aleksandr Petiushko
+  affiliation: Gatik
   abstract: TBA
-  img: stanislav.png
-  url: "https://stanislavfort.com/"
+  img: alekandr.png
+  url: "https://petiushko.info/"
+
+- name: Arash Vahdat
+  affiliation: NVIDIA
+  abstract: TBA
+  img: arash.jpg
+  url: "http://latentspace.cc/"
+
+- name: Bolei Zhou
+  affiliation: UCLA
+  abstract: TBA
+  img: bolei.jpg
+  url: "https://boleizhou.github.io/"
+
+- name: Jindong Gu
+  affiliation: Google
+  abstract: TBA
+  img: jindong.jpg
+  url: "https://jindonggu.github.io/"
 
 - name: Judy Hoffman
   affiliation: Georgia Tech
@@ -16,14 +34,15 @@
   img: judy.png
   url: "https://faculty.cc.gatech.edu/~judy/"
 
-- name: Rowan McAllister
-  affiliation: Waymo
+- name: Michael Kirchhof
+  affiliation: Apple
   abstract: TBA 
   img: rowan.jpg
-  url: "https://rowanmcallister.github.io/"
+  url: "https://www.linkedin.com/in/michael-kirchhof/"
 
-- name: Baharan Mirzasoleiman
-  affiliation: UCLA
+- name: Sharon Li
+  affiliation: University of Wisconsin-Madison
   abstract: TBA
-  img: baharan.jpg
-  url: "https://baharanm.github.io/"
+  img: sharon.jpg
+  url: "https://pages.cs.wisc.edu/~sharonli/"
+
