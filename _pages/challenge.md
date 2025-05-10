@@ -9,7 +9,7 @@ title: BRAVO Challenge
 In conjunction with the Workshop on Uncertainty Quantification for Computer Vision, we are organizing a challenge on the robustness of autonomous driving in the open world. 
 The 2025 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions. 
 
-In the 2025 edition, we extend the challenge with a new track on synthetic-domain training, while continuing the two real-domain training tracks from the BRAVO Challenge 2024.
+🔥 <b>[New]</b> In the 2025 edition, we extend the challenge with a new track on synthetic-domain training, while continuing the two real-domain training tracks from the BRAVO Challenge 2024.
 
 <b>Top teams will be invited to present their solutions in a dedicated session at the UNCV workshop</b>
 
@@ -132,7 +132,7 @@ Allowed training datasets for Track 2:
 - [SHIFT Dataset](https://www.vis.xyz/shift/) (synthetic)
 
 
-#### [New] Track 3 – Synthetic-domain training
+#### 🔥 [New] Track 3 – Synthetic-domain training
 
 In this track, you must train your models exclusively on the synthetic datasets. This track evaluates the robustness of models trained solely on synthetic data when facing corruptions observed in real-world scenarios.
 
