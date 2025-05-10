@@ -13,7 +13,7 @@ exclude:
   - .sass-cache
 
 title: "4th Workshop on Uncertainty Quantification for Computer Vision"
-subtitle: "[CVPR 2025 Workshop | 11th June 2025](https://cvpr.thecvf.com/Conferences/2025)"
+subtitle: "[CVPR 2025 Workshop](https://cvpr.thecvf.com/Conferences/2025) / 11th June 2025"
 
 shorttitle: "UNCV Workshop @ CVPR 2025"
 information: "CVPR 2025 Workshop on Uncertainty Quantification for Computer Vision." 
@@ -31,15 +31,18 @@ deadlines:
     date: "<s>April 7th, 2025</s>"
 
 
-# challengedl:
-#   - item: BRAVO Challenge 2024 launch, data and code available for download
-#     date: 17/06/2024
-#
-#   - item: Submission server open
-#     date: 01/07/2024
-#
-#   - item: Submissions deadline
-#     date: 23/08/2024
-#
-#   - item: Technical report deadline
-#     date: 27/08/2024
+challengedl:
+  - item: BRAVO Challenge 2025 launch. Submission server is open
+    date: 01/05/2024
+
+  - item: 1st submission deadline for CVPR 2025 edition
+    date: 06/06/2025
+
+  - item: BRAVO Challenge session at UNCV
+    date: 11/06/2025
+
+  - item: 2nd submission deadline to conclude BRAVO 2025 at ICCV 2025
+    date: TBD
+
+  - item: Whitepaper contribution deadline
+    date: 27/08/2024
