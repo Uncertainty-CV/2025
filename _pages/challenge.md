@@ -6,9 +6,10 @@ title: BRAVO Challenge
 
 # BRAVO Challenge
 
-In conjunction with the Workshop on Uncertainty Quantification for Computer Vision, we are organizing a challenge on the robustness of autonomous driving in the open world. The 2024 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions.
+In conjunction with the Workshop on Uncertainty Quantification for Computer Vision, we are organizing a challenge on the robustness of autonomous driving in the open world. 
+The 2025 BRAVO Challenge aims at benchmarking segmentation models on urban scenes undergoing diverse forms of natural degradation and realistic-looking synthetic corruptions. In the 2025 edition, we extend the challenge with a new track on synthetic-domain training, while continuing the two real-domain training tracks from the BRAVO Challenge 2024.
 
-<b>Top teams will be required to provide their solutions (a short paragraph) to a challenge paper. The challenge paper will be included in the ECCV Workshop Proceedings.</b>
+<b>Top teams will be invited to present their solutions in a dedicated session at the UNCV workshop</b>
 
 <b>For more information, please check the [BRAVO Challenge Repository](https://github.com/valeoai/bravo_challenge) and the [Challenge Task Website at ELSA](https://benchmarks.elsa-ai.eu/?ch=1&com=introduction).</b>
 
@@ -128,6 +129,16 @@ Allowed training datasets for Track 2:
 - [GTA5 Dataset](https://download.visinf.tu-darmstadt.de/data/from_games/) (synthetic)
 - [SHIFT Dataset](https://www.vis.xyz/shift/) (synthetic)
 
+
+#### 🔥 [New] Track 3 – Synthetic-domain training
+
+In this track, you must train your models exclusively on the synthetic datasets. This track evaluates the robustness of models trained solely on synthetic data when facing corruptions observed in real-world scenarios.
+
+Allowed training datasets for this track:
+- [GTA5 Dataset](https://download.visinf.tu-darmstadt.de/data/from_games/) (synthetic)
+- [SYNTHIA Dataset](https://synthia-dataset.net/) (synthetic)
+- [UrbanSyn Dataset](https://www.urbansyn.org/) (synthetic)
+- [SHIFT Dataset](https://www.vis.xyz/shift/) (synthetic)
 
 <br>
 
