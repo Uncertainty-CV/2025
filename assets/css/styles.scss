@@ -149,6 +149,9 @@ img.blur {
 }
 
 .time-cell {
+  width: 80px; /* Adjust as needed */
+  overflow: hidden;
+  text-overflow: ellipsis;
   white-space: nowrap;
 }
 
