@@ -31,11 +31,11 @@ title: Accepted Papers
 {% endfor %}
 </ul>
 
-# Accepted Presentation Papers
+# Accepted Posters
 
 <ul>
 {% for item in sortedPapers %}
-{% if item.type == "presentation" %}
+{% if item.type == "poster" %}
   <li><strong>{{ item.title }}</strong><br/>
   <small><i>{{ item.authors }}</i></small></li>
 {% endif %}
