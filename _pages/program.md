@@ -4,7 +4,7 @@ permalink: /program/
 title: Program
 ---
 
-# Preliminary Workshop Program
+# Workshop Program
 
 <table class="table table-striped">
     <thead>
@@ -15,53 +15,79 @@ title: Program
     </thead>
     <tbody>
     <tr>
-        <td>9:00 - 9:10</td>
+        <td>08:00 - 09:00</td>
         <td>Welcome</td>
     </tr>
     <tr>
-        <td>9:10 - 9:35</td>
-        <td>Invited Talk by <strong><a href="https://glouppe.github.io/">Gilles Louppe</a></strong><br>
-        <i>Inverting Scientific Images With Score-Based Generative Models</i>
+        <td>9:00 - 9:40</td>
+        <td>Invited Talk by <strong><a href="https://petiushko.info/">Aleksandr Petiushko</a></strong><br>
+        <i>Safety and Uncertainty in Autonomous Driving</i>
         </td>
     </tr>
     <tr>
-        <td>9:45 - 10:00</td>
-        <td>Invited Talk by <strong><a href="https://omegafragger.github.io/">Jishnu Mukhoti</a></strong><br>
-        <i>Towards Analysing the Evaluation of Neural Network Uncertainties</i>
+        <td>9:40 - 10:20</td>
+        <td>Invited Talk by <strong><a href="https://pages.cs.wisc.edu/~sharonli/">Sharon Li</a></strong><br>
+        <i>A Representative-Centric Perspective for Hallucination Detection</i>
         </td>
     </tr>
     <tr>
-        <td>10:00 - 10:30</td>
-        <td>Spotlights (Full Papers)<br>
+        <td>10:20 - 10:30</td>
+        <td>Coffee Break</td>
+    </tr>
+    <tr>
+        <td>10:30 - 11:10</td>
+        <td>Invited Talk by <strong><a href="https://boleizhou.github.io/">Bolei Zhou</a></strong><br>
+        <i>TBD</i>
+        </td>
+    </tr>
+    <tr>
+        <td>11:10 - 11:50</td>
+        <td>Invited Talk by <strong><a href="http://latentspace.cc/">Arash Vahdat</a></strong><br>
+        <i>Rare Yet Real: Generative Modeling Beyond the Modes</i>
+        </td>
+    </tr>
+    <tr>
+        <td>11:50 - 13:00</td>
+        <td>Lunch</td>
+    </tr>
+    <tr>
+        <td>13:00 - 13:30</td>
+        <td>Contributed Talks (Full Papers)<br>
         <ul>
-            <li>Calibration of Network Confidence for Unsupervised Domain Adaptation Using Estimated Accuracy</li>
-            <li> Can Your Generative Model Detect Out-of-Distribution Covariate Shift?</li>
-            <li>Logit Disagreement: OoD Detection with Bayesian Neural Networks</li>
-            <li>Multi-label out-of-distribution detection via evidential learning</li>
-            <li>Reliable Probabilistic Human Trajectory Prediction for Autonomous Applications</li>
-            <li>Sanity Checks for Explanation Uncertainty</li>
-            <li>Sources of Uncertainty in 3D Scene Reconstruction</li>
-            <li>TAG: Text Prompt Augmentation for Zero-Shot Out-of-Distribution Detection</li>
-            <li>UTrack: Multi-Object Tracking with Uncertain Detections</li>
+            <li>Improving Optical Flow and Stereo Depth Estimation by understanding learning difficulties</li>
+            <li>D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition</li>
+            <li>The Surprising Utility of Group Partitioning in Improving Conformal Prediction of Visual Classifiers under Distributional Shifts</li>
         </ul>
         </td>
     </tr>
     <tr>
-        <td>10:30 - 12:00</td>
-        <td>Poster Session & Coffee Break</td>
-    </tr>
-    <tr>
-        <td>12:00 - 12:25</td>
-        <td>Challenge</td>
-    </tr>
-    <tr>
-        <td>12:25 - 12:50</td>
-        <td>Invited Talk by <strong><a href="https://polkirichenko.github.io/">Polina Kirichenko</a></strong><br>
-        <i>Addressing Robustness to Spurious Correlations and Geographic Biases in Vision Foundation Models</i>
+        <td>13:30 - 14:10</td>
+        <td>Invited Talk by <strong><a href="https://faculty.cc.gatech.edu/~judy/">Judy Hoffman</a></strong><br>
+        <i>TBD</i>
         </td>
     </tr>
     <tr>
-        <td>12:50 - 13:00</td>
+        <td>14:10 - 14:30</td>
+        <td>Contributed Spotlights</td>
+    </tr>
+    <tr>
+        <td>14:30 - 15:50</td>
+        <td>Poster Session & Coffee Break</td>
+    </tr>
+    <tr>
+        <td>15:50 - 16:30</td>
+        <td>Invited Talk by <strong><a href="https://www.linkedin.com/in/michael-kirchhof/">Michael Kirchhof</a></strong><br>
+        <i>(De/Re)constructing uncertainties for generative vision and language</i>
+        </td>
+    </tr>
+    <tr>
+        <td>16:30 - 17:10</td>
+        <td>Invited Talk by <strong><a href="https://jindonggu.github.io/">Jindong Gu</a></strong><br>
+        <i>Toward the Risks Brought by Visual Input into Multimodal LLMs</i>
+        </td>
+    </tr>
+    <tr>
+        <td>17:10 - 17:20</td>
         <td>Closing Remarks</td>
     </tr>
     </tbody>
