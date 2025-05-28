@@ -15,7 +15,7 @@ title: Program
     </thead>
     <tbody>
     <tr>
-        <td>08:00 - 09:00</td>
+        <td>8:00 - 9:00</td>
         <td>Welcome</td>
     </tr>
     <tr>
