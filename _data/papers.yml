@@ -1,3 +1,24 @@
-- title: TBA  
-  authors: TBA  
+- title: Improving Optical Flow and Stereo Depth Estimation by understanding learning difficulties
+  authors: Jisoo Jeong, Hong Cai, Jamie Menjay Lin, Fatih Porikli  
   type: full
+
+- title: "D-Feat Occlusions: Diffusion Features for Robustness to Partial Visual Occlusions in Object Recognition"
+  authors: Rupayan Mallick, Sibo Dong, Nataniel Ruiz, Sarah Adel Bargal 
+  type: full
+
+- title: "WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts"
+  authors: Shadi Alijani, Homayoun Najjaran
+  type: full
+
+- title: "The Surprising Utility of Group Partitioning in Improving Conformal Prediction of Visual Classifiers under Distributional Shifts
+"
+  authors: Kowshik Thopalli, Vivek Narayanaswamy, Jayaraman J. Thiagarajan
+  type: full
+
+- title: "Uncertainty Quantification for Gradient-based Explanations in Neural Networks"
+  authors: Mihir Mulye, Matias Valdenegro-Toro
+  type: full
+
+
+
+
