@@ -68,7 +68,7 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">14:10 - 14:30</td>
-        <td>Contributed Spotlights</td>
+        <td>Contributed Spotlights<br>
         <ul>
             <li>View-Dependent Uncertainty Estimation of 3D Gaussian Splatting</li>
             <li>Spatially-Aware Evaluation of Segmentation Uncertainty</li>
@@ -80,6 +80,7 @@ title: Program
             <li>WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts</li>
             <li>HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models</li>
         </ul>
+        </td>
     </tr>
     <tr>
         <td class="time-cell">14:30 - 15:50</td>
