@@ -37,7 +37,7 @@ title: Program
     <tr>
         <td class="time-cell">10:30 - 11:10</td>
         <td>Invited Talk by <strong><a href="https://boleizhou.github.io/">Bolei Zhou</a></strong><br>
-        <i>TBD</i>
+        <i>Learning Safety-aware Agents from Human Feedback and Adversary Environments</i>
         </td>
     </tr>
     <tr>
