@@ -69,6 +69,17 @@ title: Program
     <tr>
         <td class="time-cell">14:10 - 14:30</td>
         <td>Contributed Spotlights</td>
+        <ul>
+            <li>View-Dependent Uncertainty Estimation of 3D Gaussian Splatting</li>
+            <li>Spatially-Aware Evaluation of Segmentation Uncertainty</li>
+            <li>Compositional Targeted Multi-Label Universal Perturbations</li>
+            <li>Quantile UQNet: A Conformal, Nonlinear Scaling Model for Uncertainty Prediction</li>
+            <li>Centaur: Robust End-to-End Autonomous Driving with Test-Time Training</li>
+            <li>Consensus-Driven Active Model Selection</li>
+            <li>Uncertainty Quantification for Gradient-based Explanations in Neural Networks</li>
+            <li>WQLCP: Weighted Adaptive Conformal Prediction for Robust Uncertainty Quantification Under Distribution Shifts</li>
+            <li>HARMONY: Hidden Activation Representations and Model Output-Aware Uncertainty Estimation for Vision-Language Models</li>
+        </ul>
     </tr>
     <tr>
         <td class="time-cell">14:30 - 15:50</td>
