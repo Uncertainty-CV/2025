@@ -88,14 +88,14 @@ title: Program
     </tr>
     <tr>
         <td class="time-cell">15:50 - 16:30</td>
-        <td>Invited Talk by <strong><a href="https://www.linkedin.com/in/michael-kirchhof/">Michael Kirchhof</a></strong><br>
-        <i>(De/Re)constructing uncertainties for generative vision and language</i>
+        <td>Invited Talk by <strong><a href="https://jindonggu.github.io/">Jindong Gu</a></strong><br>
+        <i>Toward the Risks Brought by Visual Input into Multimodal LLMs</i>
         </td>
     </tr>
     <tr>
         <td class="time-cell">16:30 - 17:10</td>
-        <td>Invited Talk by <strong><a href="https://jindonggu.github.io/">Jindong Gu</a></strong><br>
-        <i>Toward the Risks Brought by Visual Input into Multimodal LLMs</i>
+        <td>Invited Talk by <strong><a href="https://www.linkedin.com/in/michael-kirchhof/">Michael Kirchhof</a></strong><br>
+        <i>(De/Re)constructing uncertainties for generative vision and language</i>
         </td>
     </tr>
     <tr>
