@@ -63,7 +63,7 @@ title: Program
     <tr>
         <td class="time-cell">13:30 - 14:10</td>
         <td>Invited Talk by <strong><a href="https://faculty.cc.gatech.edu/~judy/">Judy Hoffman</a></strong><br>
-        <i>TBD</i>
+        <i>Bridging the Gap: Robust Robot Learning from Human Video</i>
         </td>
     </tr>
     <tr>
